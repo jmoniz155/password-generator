@@ -6,7 +6,6 @@
 This is where I use my knowledge in javascript to build this project Password Generator.  This project is a step by step build by logging in a password that is greater than the number 8 and less than the number 128. 
 
 
-How this works is when you click generate password the page asks you what is your password. If your number is less than 8 or greater than 128 an invalid length will apprear and will ask you to try again. When your number is within the range needed if will ask you a series of question which you will have to answer yes to at least 1 question.  It will then generate a password of number, upper and lowercase letter as well as special functions. It will then generate a random password for you. If anything doesnt matcth 
 
 ## Table of Contents
 [Credits]
